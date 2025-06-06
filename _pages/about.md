@@ -9,3 +9,8 @@ redirect_from:
 
 I am a first-year master student in Harvard T.H. Chan School of Public Health. Prior to this, I obtain my B.S. degree in School of Public Health, Peking University.
 
+Awards
+======
+* Student Abstract Award, American Gastroenterological Association (AGA), 2025
+* 
+

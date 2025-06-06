@@ -11,7 +11,7 @@ I am a first-year master student in Harvard T.H. Chan School of Public Health. P
 
 News
 ======
-* May 2025: I gave the oral presentation at Gastrointestinal Oncology Distinguished Abstract Plenary Session (feature the year’s best abstracts and invited speakers).
+* **May 2025:** I gave the oral presentation at Gastrointestinal Oncology Distinguished Abstract Plenary Session (feature the year’s best abstracts and invited speakers).
 
 Awards
 ======

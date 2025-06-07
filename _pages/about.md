@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master's student in epidemiology at Harvard T.H. Chan School of Public Health. Prior to this, I obtain my Bachelor of Medicine and Economics in Peking University. My research interests are in genetic, lifestyle, metabolic determinants of digestive diseases and cancers intergration of multi-omics in epidemiology.
+I am a first-year master's student in Nutritional Epidemiology at Harvard T.H. Chan School of Public Health. My research interests focus on the genetic, lifestyle, and metabolic determinants of digestive diseases and cancers. I am passionate about intergrating cutting-edge multi-omics techniques into epidemiology research and translating findings into clinical practice.
 
-News
+Education
 ======
-* **May 2025:** My abstract was selected for oral presentation at the Gastrointestinal Oncology Distinguished Abstract Plenary Session at DDW, and featured in the Best of DDW as one of the year's top abstracts.
+* **2024-present:** Master of Science in Epidemiology, Harvard University
+* **2019-2024:** Bachelor of Medicine, Peking University
+* **2020-2023:** Bachelor of Economics, Peking University
 
 Awards
 ======
@@ -25,5 +27,5 @@ Awards
 
 Contact
 ======
-xinyuwang_wang [at] hsph [dot] harvard [dot] edu [dot] cn
+xinyu_wang [at] hsph [dot] harvard [dot] edu [dot] cn
 

@@ -12,6 +12,7 @@ I am a first-year master's student in epidemiology at Harvard T.H. Chan School o
 News
 ======
 * **May 2025:** My abstract was selected for oral presentation at the Gastrointestinal Oncology Distinguished Abstract Plenary Session at DDW, and featured in the Best of DDW as one of the year's top abstracts.
+
 Awards
 ======
 * **2025:** Student Abstract Award, American Gastroenterological Association (AGA)

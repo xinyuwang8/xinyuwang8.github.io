@@ -11,8 +11,8 @@ I am a first-year master's student in Nutritional Epidemiology at Harvard T.H. C
 
 Education
 ======
-* **2024-present:** Master of Science in Epidemiology, Harvard University
-* **2019-2024:** Bachelor of Medicine, Peking University
+* **2024-present:** Master of Science in Epidemiology, Harvard University (GPA: 4.00/4.00)
+* **2019-2024:** Bachelor of Medicine, Peking University (GPA: 3.96/4.00)
 * **2020-2023:** Bachelor of Economics, Peking University
 
 Awards

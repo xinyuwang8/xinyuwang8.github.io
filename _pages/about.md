@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master's student in Nutritional Epidemiology at Harvard T.H. Chan School of Public Health. My research interests focus on the genetic, lifestyle, and metabolic determinants of digestive diseases and cancers. I am passionate about intergrating cutting-edge multi-omics techniques into epidemiology research and translating findings into clinical practice.
+I am a first-year master's student in Nutritional Epidemiology at Harvard T.H. Chan School of Public Health. My research interests focus on the genetic, lifestyle, and metabolic determinants of digestive diseases and cancers. I am passionate about integrating cutting-edge multi-omics techniques into epidemiology research and translating findings into clinical practice.
 
 Education
 ======

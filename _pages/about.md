@@ -40,12 +40,7 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
   </tr>
 </table>
 
-## Education
-* **2024-present:** Master of Science in Epidemiology, Harvard University (GPA: 4.00/4.00)
-* **2019-2024:** Bachelor of Medicine, Peking University (GPA: 3.96/4.00)
-* **2020-2023:** Bachelor of Economics, Peking University
-
-## Awards
+## Honors and awards
 * **2025:** Student Abstract Award, American Gastroenterological Association (AGA)
 * **2025:** Brian MacMahon Travel Award, Harvard T.H. Chan School of Public Health
 * **2024:** Excellent Graduate, Peking University (top 1% among all graduates)
@@ -53,6 +48,14 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
 * **2020, 2022, 2023:** National Scholarship (top 1%, the highest scholarship from Ministry of Education of the PRC)
 * **2023:** Academic Innovation Award, Peking University (the only undergraduate recipient)
 * **2021:** First Class Scholarship for Medical Students, Peking University Health Science Center (top 5%)
+
+## Education
+* **2024-present:** Master of Science in Epidemiology, Harvard University (GPA: 4.00/4.00)
+* **2019-2024:** Bachelor of Medicine, Peking University (GPA: 3.96/4.00)
+* **2020-2023:** Bachelor of Economics, Peking University
+
+## Teaching experience
+* **2025 Fall:** Core Principles of Biostatistics and Epidemiology for Public Health, Teaching Fellow, Harvard University
 
 ## Contact
 xinyu_wang [at] hsph [dot] harvard [dot] edu [dot] cn

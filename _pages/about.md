@@ -7,16 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master's student in Nutritional Epidemiology at Harvard T.H. Chan School of Public Health. My research interests focus on the genetic, lifestyle, and metabolic determinants of digestive diseases and cancers. I am passionate about integrating cutting-edge multi-omics techniques into epidemiology research and translating findings into clinical practice.
+I am a second-year master's student in Nutritional Epidemiology at Harvard T.H. Chan School of Public Health, supervised by [Dr. Edward Giovannucci](https://hsph.harvard.edu/profile/edward-giovannucci/) and [Dr. Mingyang Song](https://hsph.harvard.edu/profile/mingyang-song/), with additional collaborations with [Dr. Zhi Yu](https://researchers.mgh.harvard.edu/profile/14495114/Zhi-Yu) and [Dr. Christina Dieli-Conwright](https://www.dana-farber.org/find-a-doctor/christina-m-dieli-conwright). Prior to this, I obtained my dual bachelor's degrees in Medicine and Economics from Peking University, where I worked as a research assistant under the guidance of [Dr. Yuanjie Pang](https://sph.pku.edu.cn/info/1767/5615.htm).
+My research interests focus on the genetic, lifestyle, and metabolic determinants of cancers and cardiometabolic diseases. I am passionate about integrating cutting-edge multi-omics techniques into epidemiology research and translating findings into clinical practice.
 
-Education
-======
+## Education
 * **2024-present:** Master of Science in Epidemiology, Harvard University (GPA: 4.00/4.00)
 * **2019-2024:** Bachelor of Medicine, Peking University (GPA: 3.96/4.00)
 * **2020-2023:** Bachelor of Economics, Peking University
 
-Awards
-======
+## Awards
 * **2025:** Student Abstract Award, American Gastroenterological Association (AGA)
 * **2025:** Brian MacMahon Travel Award, Harvard T.H. Chan School of Public Health
 * **2024:** Excellent Graduate, Peking University (top 1% among all graduates)
@@ -25,7 +24,6 @@ Awards
 * **2023:** Academic Innovation Award, Peking University (the only undergraduate recipient in the school)
 * **2021:** First Class Scholarship for Medical Students, Peking University Health Science Center (top 5%)
 
-Contact
-======
+## Contact
 xinyu_wang [at] hsph [dot] harvard [dot] edu [dot] cn
 

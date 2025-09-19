@@ -37,4 +37,4 @@ redirect_from:
 
 ## Comments & Letters
 1. **Wang X**, Giovannucci E. **Preservatives and risk of cancer.** *British Medical Journal*. 2025. (In press)
-2. **Wang X**, Wang A, Zhang R, Cheng S, Pang Y. **Life’s Essential 8 and MAFLD in the United States.** *Journal of Hepatology*. 2023;78(2). doi: 10.1016/j.jhep.2022.10.014.
+2. **Wang X**, Wang A, Zhang R, Cheng S, Pang Y. **Life’s Essential 8 and MAFLD in the United States.** *Journal of Hepatology*. 2023;78(2). [doi:10.1016/j.jhep.2022.10.014](https://doi.org/10.1016/j.jhep.2022.10.014)

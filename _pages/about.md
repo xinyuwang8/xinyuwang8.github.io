@@ -40,7 +40,7 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
     </td>
   </tr>
 
-    <tr>
+   <tr>
     <td style="width:40%; padding:8px;">
       <img src="/assets/images/chip_cancer.jpg" alt="CHIP cancer" style="width:100%; height:auto; display:block;">
     </td>

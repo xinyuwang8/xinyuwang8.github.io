@@ -13,7 +13,7 @@ Prior to Harvard, I obtained dual Bachelor's degrees in Medicine and Economics f
 
 My research interests focus on the genetic, lifestyle, and metabolic determinants of chronic diseases. I am passionate about integrating cutting-edge multi-omics techniques into epidemiology research and translating findings into clinical practice. I have been fortunate to lead six first-author (including co-first) peer-reviewed journal articles and currently have five additional first-author manuscripts under review or in preparation.
 
-## Current Projects
+## Current projects
 <table>
   <tr>
     <td width="40%">
@@ -21,9 +21,9 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
     </td>
     <td width="60%">
       <strong>Epidemiological stability of the gut microbiome and associated factors</strong><br>
-      Supervised by Dr. Mingyang Song and Dr. Curtis Huttenhower </a><br>
+      **Xinyu Wang**, Supervised by Dr. Mingyang Song and Dr. Curtis Huttenhower </a><br>
       Working paper<br>
-      Submitted abstract to the Digestive Disease Week 2026
+      Submitted abstract to the <em>Digestive Disease Week 2026<em>
     </td>
   </tr>
 </table>

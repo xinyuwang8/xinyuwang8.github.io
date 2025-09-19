@@ -17,7 +17,7 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
 <table>
   <tr>
     <td width="40%">
-      <img src="/assets/images/microbiome_stability.png" alt="Microbiome Stability" width="50%">
+      <img src="/assets/images/microbiome_stability.png" alt="Microbiome Stability" width="100%">
     </td>
     <td width="60%">
       <strong>Epidemiological stability of the gut microbiome and associated factors</strong><br>

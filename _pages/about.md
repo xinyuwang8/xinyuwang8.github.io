@@ -21,7 +21,7 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
     </td>
     <td width="60%">
       <strong>Epidemiological stability of the gut microbiome and associated factors</strong><br>
-      **Xinyu Wang**, Supervised by Dr. Mingyang Song and Dr. Curtis Huttenhower </a><br>
+      <strong>Xinyu Wang</strong>; Supervised by Dr. Mingyang Song and Dr. Curtis Huttenhower </a><br>
       Working paper<br>
       Submitted abstract to the <em>Digestive Disease Week 2026<em>
     </td>

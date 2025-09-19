@@ -14,30 +14,28 @@ Prior to Harvard, I obtained dual Bachelor's degrees in Medicine and Economics f
 My research interests focus on the genetic, lifestyle, and metabolic determinants of chronic diseases. I am passionate about integrating cutting-edge multi-omics techniques into epidemiology research and translating findings into clinical practice. I have been fortunate to lead six first-author (including co-first) peer-reviewed journal articles and currently have five additional first-author manuscripts under review or in preparation.
 
 ## Current projects
-<table>
+<table style="width:100%; border-collapse:separate; border-spacing:0 16px;">
   <tr>
-    <td width="40%">
-      <img src="/assets/images/upf_metab.jpg" alt="UPF metabolomics" width="100%">
+    <td style="width:40%; padding:8px;">
+      <img src="/assets/images/upf_metab.jpg" alt="UPF metabolomics" style="width:100%; height:auto; display:block;">
     </td>
-    <td width="60%">
+    <td style="width:60%; padding:8px;">
       <strong>Metabolomic pattern of ultra-processed food and risk of colorectal cancer precursors</strong><br>
-      <strong><u>Xinyu Wang</u></strong>; Supervised by Dr. Mingyang Song and Dr. Edward Giovnnucci </a><br>
+      <strong><u>Xinyu Wang</u></strong>; supervised by Dr. Mingyang Song and Dr. Edward Giovannucci<br>
       Working paper<br>
-      Oral presentation in Plenary Session at the <em>Digestive Disease Week 2025<em>
+      Oral presentation in Plenary Session at the <em>Digestive Disease Week 2025</em>
     </td>
   </tr>
-</table>
 
-<table>
   <tr>
-    <td width="40%">
-      <img src="/assets/images/microbiome_stability.jpg" alt="Microbiome Stability" width="100%">
+    <td style="width:40%; padding:8px;">
+      <img src="/assets/images/microbiome_stability.jpg" alt="Microbiome Stability" style="width:100%; height:auto; display:block;">
     </td>
-    <td width="60%">
+    <td style="width:60%; padding:8px;">
       <strong>Epidemiological stability of the gut microbiome and associated factors</strong><br>
-      <strong><u>Xinyu Wang</u></strong>; Supervised by Dr. Mingyang Song and Dr. Curtis Huttenhower </a><br>
+      <strong><u>Xinyu Wang</u></strong>; supervised by Dr. Mingyang Song and Dr. Curtis Huttenhower<br>
       Working paper<br>
-      Submitted abstract to the <em>Digestive Disease Week 2026<em>
+      Submitted abstract to the <em>Digestive Disease Week 2026</em>
     </td>
   </tr>
 </table>

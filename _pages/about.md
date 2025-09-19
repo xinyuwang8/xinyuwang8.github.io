@@ -18,25 +18,25 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
 <table style="width:100%; border-collapse:separate; border-spacing:0 16px; font-size:18px;">
   <tr>
     <td style="width:40%; padding:8px;">
-      <img src="/assets/images/upf_metab.jpg" alt="UPF metabolomics" style="width:100%; height:auto; display:block;">
-    </td>
-    <td style="width:60%; padding:8px;">
-      <strong>Metabolomic pattern of ultra-processed food and risk of colorectal cancer precursors</strong><br>
-      <strong><u>Xinyu Wang</u></strong>; supervised by Dr. Mingyang Song<br>
-      Working paper<br>
-      Oral presentation in Plenary Session at the <em>Digestive Disease Week 2025</em>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width:40%; padding:8px;">
       <img src="/assets/images/microbiome_stability.jpg" alt="Microbiome Stability" style="width:100%; height:auto; display:block;">
     </td>
     <td style="width:60%; padding:8px;">
       <strong>Epidemiological stability of the gut microbiome and associated factors</strong><br>
       <strong><u>Xinyu Wang</u></strong>; supervised by Dr. Mingyang Song and Dr. Curtis Huttenhower<br>
-      Working paper<br>
-      Submitted abstract to the <em>Digestive Disease Week 2026</em>
+      <li>Working paper</li>
+      <li>Submitted abstract to the <em>Digestive Disease Week 2026</em></li>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="width:40%; padding:8px;">
+      <img src="/assets/images/upf_metab.jpg" alt="UPF metabolomics" style="width:100%; height:auto; display:block;">
+    </td>
+    <td style="width:60%; padding:8px;">
+      <strong>Metabolomic pattern of ultra-processed food and risk of colorectal cancer precursors</strong><br>
+      <strong><u>Xinyu Wang</u></strong>; supervised by Dr. Mingyang Song<br>
+      <li>Under review in <em>Gastroenterology</em>em></li>
+      <li>Oral presentation in Plenary Session at <em>Digestive Disease Week 2025</em></li>
     </td>
   </tr>
 
@@ -47,8 +47,8 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
     <td style="width:60%; padding:8px;">
       <strong>Clonal hematopoiesis of intermediate potential: a modifiable risk factor for prostate and bladder cancer</strong><br>
       <strong><u>Xinyu Wang</u></strong>; supervised by Dr. Zhi Yu and Dr. Edward Giovannucci<br>
-      Working paper<br>
-      Lightning talk at the <em>American Society of Human Genetics 2025</em>
+      <li>Working paper</li>
+      <li>Lightning talk at the <em>American Society of Human Genetics 2025</em></li>
     </td>
   </tr>
 </table>

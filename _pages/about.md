@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-##
+## Biography
 I am a second-year master's student in Nutritional Epidemiology at Harvard T.H. Chan School of Public Health (since 2024), supervised by [Dr. Edward Giovannucci](https://hsph.harvard.edu/profile/edward-giovannucci/) and [Dr. Mingyang Song](https://hsph.harvard.edu/profile/mingyang-song/), with additional collaborations with [Dr. Curtis Huttenhower](https://hsph.harvard.edu/profile/curtis-huttenhower/), [Dr. Zhi Yu](https://researchers.mgh.harvard.edu/profile/14495114/Zhi-Yu), and [Dr. Christina Dieli-Conwright](https://www.dana-farber.org/find-a-doctor/christina-m-dieli-conwright). 
 
 Prior to Harvard, I obtained dual Bachelor's degrees in Medicine and Economics from Peking University (2019-2024), where I worked as a research assistant under the guidance of [Dr. Yuanjie Pang](https://sph.pku.edu.cn/info/1767/5615.htm) for three years. I also received research training with [Dr. Shengfeng Wang](https://sph.pku.edu.cn/info/1326/4055.htm) and [Dr. Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm).

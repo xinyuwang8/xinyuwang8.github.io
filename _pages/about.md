@@ -22,8 +22,10 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
     <td style="width:60%; padding:8px;">
       <strong>Epidemiological stability of the gut microbiome and associated factors</strong><br>
       <strong><u>Xinyu Wang</u></strong>; supervised by Dr. Mingyang Song and Dr. Curtis Huttenhower<br>
-      <li>Working paper</li>
-      <li>Submitted abstract to the <em>Digestive Disease Week 2026</em></li>
+      <ul style="margin:4px 0 0 20px; padding:0;">
+        <li>Working paper</li>
+        <li>Submitted abstract to the <em>Digestive Disease Week 2026</em></li>
+      </ul>
     </td>
   </tr>
   
@@ -57,7 +59,7 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
   
   <tr>
     <td style="width:40%; padding:8px;">
-      <img src="/assets/images/ccs.jpg" alt="CCS" style="width:100%; height:auto; display:block;">
+      <img src="/assets/images/ccs.png" alt="CCS" style="width:100%; height:auto; display:block;">
     </td>
     <td style="width:60%; padding:8px;">
       <strong>Prediction and clinical utility of a cirrhosis risk score in Chinese adults</strong><br>
@@ -83,7 +85,7 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
         </a>
       </strong><br>
       <strong><u>Xinyu Wang</u></strong>#, Zhiyu Wu#, Jun Lv, et al<br>
-      <em>Obesity</em>.2023;31(12):3077-3085.<br>
+      <em>Obesity</em>. 2023;31(12):3077-3085.<br>
     </td>
   </tr>
   
@@ -98,7 +100,7 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
         </a>
       </strong><br>
       <strong><u>Xinyu Wang</u></strong>, Zhang R, Man S, et al<br>
-      <em>Liver International</em>2023;43(8):1691-1698.<br>
+      <em>Liver International</em>. 2023;43(8):1691-1698.<br>
     </td>
   </tr>
 
@@ -113,7 +115,7 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
         </a>
       </strong><br>
       <strong><u>Xinyu Wang</u></strong>, Zhang R, Man S, et al<br>
-      <em>Obesity Surgery</em>2023;43(8):1691-1698.<br>
+      <em>Obesity Surgery</em>. 2023;43(8):1691-1698.<br>
     </td>
   </tr>
 </table>

@@ -99,7 +99,7 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
           Metabolic-associated fatty liver disease in relation to site-specific and multiple-site subclinical atherosclerosis
         </a>
       </strong><br>
-      <strong><u>Xinyu Wang</u></strong>, Zhang R, Man S, et al<br>
+      <strong><u>Xinyu Wang</u></strong>, Ruosu Zhang, Sailimai Man, et al<br>
       <em>Liver International</em>. 2023;43(8):1691-1698.<br>
     </td>
   </tr>

@@ -114,8 +114,8 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
           Effect of bariatric surgery on non-alcoholic fatty liver disease: an exploratory metabolomics and validation study
         </a>
       </strong><br>
-      <strong><u>Xinyu Wang</u></strong>, Zhang R, Man S, et al<br>
-      <em>Obesity Surgery</em>. 2023;43(8):1691-1698.<br>
+      Mengyi Li#, <strong><u>Xinyu Wang</u></strong>#, Na Zeng#, et al<br>
+      <em>Obesity Surgery</em>. 2025.<br>
     </td>
   </tr>
 </table>

@@ -32,9 +32,9 @@ redirect_from:
 5. Huang T, **Wang X**, Wang J, Wu Y, Zheng Y, Song Y. Temporal and regional distribution of fertility intention, behavior, and intention-behavior congruence in China (2010-2021). (Under revision in *BMC Public Health*)
 
 ### Manuscripts in preparation
-1. **Wang X**, Li L, Liu J, Uddin M, Niroula A, Stopsack KH, Chan AT, Bolton K, Natarajan P†, Giovannucci E†, Yu Z†. Clonal hematopoiesis of intermediate potential: a modifiable risk factor for prostate and bladder cancer. (Presented at American Society of Human Genetics 2025; prepare for submission)
-2. **Wang X**, Wang C, Wang K, Du M, Lu Y, Nogal A, Shen J, Nguyen L, TBD, Huttenhower C, Song M. Epidemiological stability of the gut microbiome and associated factors. (Submitted to Digestive Disease Week 2026)
-3. **Wang X**, Turman C, Chen Y, Sun D, TBD, Song M. Germline genetic impact on risk of colorectal cancer according to birth cohort. (Submitted to American Association for Cancer Research Annual Meeting 2026)
+1. **Wang X**, Li L, Liu J, Uddin M, Niroula A, Stopsack KH, Chan AT, Bolton K, Natarajan P†, Giovannucci E†, Yu Z†. Clonal hematopoiesis of intermediate potential: a modifiable risk factor for prostate and bladder cancer. (Presented at *American Society of Human Genetics 2025*; prepare for submission)
+2. **Wang X**, Wang C, Wang K, Du M, Lu Y, Nogal A, Shen J, Nguyen L, TBD, Huttenhower C, Song M. Epidemiological stability of the gut microbiome and associated factors. (Submitted to *Digestive Disease Week 2026*)
+3. **Wang X**, Turman C, Chen Y, Sun D, TBD, Song M. Germline genetic impact on risk of colorectal cancer according to birth cohort. (Submitted to *American Association for Cancer Research Annual Meeting 2026*)
 4. Cox E, **Wang X**, Paik JM, Giovannucci E, Stopsack KH, Zhang Y, Himbert C, Vaselkiv JB, Rimm EB, Mucci LA, Dieli-Conwright CM. Impact of physical activity and sedentary behavior on bone fracture risk in a cohort of prostate cancer patients: Results from the Health Professionals Follow-up Study.
 5. Meng D#, Qian Z#, **Wang X**, TBD, Zhang FF†, Mucci LA†. Ultra-processed food consumption and risk of prostate cancer.
 6. Li L#, Zakavat S#, **Wang X**, Truong B, Bick A, Rotter J, Rich S, Liu Y, Ardlie K, Aguet F, Taylor K, Li X, Post W, Vasan R, Reiner A, Desai P, Whitsel E, Kooperberg C, Levy D, Manson J, Jaiswal S, Murabito J, Conneely K, Natarajan P†, Yu Z†. Multi-ethnic transcriptomic analysis of clonal hematopoiesis reveals driver-specific pathways and causal associations.

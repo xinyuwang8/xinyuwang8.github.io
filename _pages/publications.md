@@ -38,3 +38,6 @@ redirect_from:
 4. Cox E, **Wang X**, Paik JM, Giovannucci E, Stopsack KH, Zhang Y, Himbert C, Vaselkiv JB, Rimm EB, Mucci LA, Dieli-Conwright CM. Impact of physical activity and sedentary behavior on bone fracture risk in a cohort of prostate cancer patients: Results from the Health Professionals Follow-up Study.
 5. Meng D#, Qian Z#, **Wang X**, TBD, Zhang FF†, Mucci LA†. Ultra-processed food consumption and risk of prostate cancer.
 6. Li L#, Zakavat S#, **Wang X**, Truong B, Bick A, Rotter J, Rich S, Liu Y, Ardlie K, Aguet F, Taylor K, Li X, Post W, Vasan R, Reiner A, Desai P, Whitsel E, Kooperberg C, Levy D, Manson J, Jaiswal S, Murabito J, Conneely K, Natarajan P†, Yu Z†. Multi-ethnic transcriptomic analysis of clonal hematopoiesis reveals driver-specific pathways and causal associations.
+
+### Peer-review work
+*EClinicalMedicine*, *American Journal of Clinical Nutrition*, *European Journal of Epidemiology*, *Journal of the American Heart Association*, *BMC Cancer*

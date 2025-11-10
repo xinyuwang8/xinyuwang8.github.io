@@ -24,6 +24,11 @@ redirect_from:
    <strong>ASHG, Boston, 2025</strong>
    </p>
 3. **Development, validation, and prognostic evaluation of a cirrhosis risk score in Chinese.** *[The Liver Meeting](https://www.aasld.org/the-liver-meeting)*, Washington DC, US, 2025.
-4. **Physical activity and bone fracture risk in a cohort of prostate cancer patients: Results from the Health Professionals Follow-up Study.** *[DF/HCC Celebration of Early Career Investigators in Cancer Research](https://www.dfhcc.harvard.edu/events/dfhcc-celebration-of-early-career-investigators/home)*, Boston, US, 2025.
-5. **Effects of bariatric surgery on rapid remission of NAFLD: An exploratory metabolomics and validation study.** *[IFSO World Congress](https://www.ifso.com/world-congress/)*, Melbourne, Australia, 2024.
+    - Poster of Distinction (top 10% of all accepted poster presentations)
+   <p align="center">
+   <img src="/assets/images/TLM2025.jpg" width="500"><br>
+   <strong>TLM, Washington DC, 2025</strong>
+   </p>
+5. **Physical activity and bone fracture risk in a cohort of prostate cancer patients: Results from the Health Professionals Follow-up Study.** *[DF/HCC Celebration of Early Career Investigators in Cancer Research](https://www.dfhcc.harvard.edu/events/dfhcc-celebration-of-early-career-investigators/home)*, Boston, US, 2025.
+6. **Effects of bariatric surgery on rapid remission of NAFLD: An exploratory metabolomics and validation study.** *[IFSO World Congress](https://www.ifso.com/world-congress/)*, Melbourne, Australia, 2024.
 

@@ -26,7 +26,7 @@ redirect_from:
 11.	Xu Q, Zhao T, Cai X, Wang M, Ao L, Wei T, Yang H, Zhang S, Zhang X, Jin S, **Wang X**, Feng X, Zhao J, Wu Y, Yang J, Cui F. [Global hesitancy of COVID-19 vaccine among vulnerable population from 2020 to 2023: A systematic review and meta-analysis.](https://onlinelibrary.wiley.com/doi/abs/10.1002/rmv.70079) *Reviews in Medical Virology*. 2025;35(6):e70079. doi:10.1002/rmv.70079.
 
 ### Comments & Letters
-1. **Wang X**, Giovannucci E. Preservatives and risk of cancer. *British Medical Journal*. 2025. (In press)
+1. **Wang X**, Giovannucci E. [Preservatives and risk of cancer.](https://www.bmj.com/content/392/bmj.r2613) *British Medical Journal*. 2026;392:r2613. doi:10.1136/bmj.r2613.
 2. **Wang X**, Wang A, Zhang R, Cheng S, Pang Y. [Life’s Essential 8 and MAFLD in the United States.](https://doi.org/10.1016/j.jhep.2022.10.014) *Journal of Hepatology*. 2023;78(2). doi:10.1016/j.jhep.2022.10.014.
 
 ### Manuscripts under review

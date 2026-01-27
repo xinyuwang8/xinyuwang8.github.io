@@ -30,8 +30,8 @@ redirect_from:
 2. **Wang X**, Wang A, Zhang R, Cheng S, Pang Y. [Life’s Essential 8 and MAFLD in the United States.](https://doi.org/10.1016/j.jhep.2022.10.014) *Journal of Hepatology*. 2023;78(2). doi:10.1016/j.jhep.2022.10.014.
 
 ### Manuscripts under review
-1. **Wang X**, Du M, Hang D, Zeleznik OA, Wang C, Fang Z, Ogino S, Chan AT, Sun Q, Eliassen AH, Giovannucci E, Song M. Metabolomic pattern of ultra-processed food intake and risk of colorectal cancer precursors. (Invited for submission to *Gastroenterology*)
-2. **Wang X**#, Song S#, Wu S#, Sun D, Yu C, Man S, Zu Y, Yang X, Liang M, Kartsonaki C, Chen Z, Lv J, Wang B, Aberg F, Li L†, Zheng M†, Pang Y†. Prediction and clinical utility of a cirrhosis risk score in Chinese adults. (Under review in *Clinical Gastroenterology and Hepatology*)
+1. **Wang X**, Du M, Hang D, Zeleznik OA, Wang C, Fang Z, Ogino S, Chan AT, Sun Q, Eliassen AH, Giovannucci E, Song M. Metabolomic pattern of ultra-processed food intake and risk of colorectal cancer precursors. (Under revision in *Gastroenterology*)
+2. **Wang X**#, Song S#, Wu S#, Sun D, Yu C, Man S, Zu Y, Yang X, Liang M, Kartsonaki C, Chen Z, Lv J, Wang B, Aberg F, Li L†, Zheng M†, Pang Y†. Prediction and clinical utility of a cirrhosis risk score in Chinese adults. (Under review in *Nature Communications*)
 3. Cong X#, Wu Z#, **Wang X**, Si J, Jiang M, Yu C, Sun D, Pei P, Yang L, Chen Y, Du H, Pang Z, Schmidt D, Chen J, Chen Z, Lv J, Li L, Zheng M, Pang Y. Serum HBV surface antigen positivity, accelerated biological aging, and age-related diseases in Chinese adults. (Under review in *JHEP Reports*)
 4. Huang T, **Wang X**, Wang J, Wu Y, Zheng Y, Song Y. Temporal and regional distribution of fertility intention, behavior, and intention-behavior congruence in China (2010-2021). (Under revision in *BMC Public Health*)
 

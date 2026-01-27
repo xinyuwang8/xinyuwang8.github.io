@@ -37,7 +37,7 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
       <strong>Metabolomic pattern of ultra-processed food and risk of colorectal cancer precursors</strong><br>
       <strong><u>Xinyu Wang</u></strong>; supervised by Dr. Mingyang Song<br>
       <ul style="margin:4px 0 0 20px; padding:0;">
-        <li>Invited for submission to <em>Gastroenterology</em></li>
+        <li>Under revision in <em>Gastroenterology</em></li>
         <li>Oral presentation in Plenary Session at <em>Digestive Disease Week 2025</em></li>
       </ul>
     </td>
@@ -66,7 +66,7 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
       <strong><u>Xinyu Wang</u></strong>; supervised by Dr. Yuanjie Pang and Dr. Liming Li<br>
       <ul style="margin:4px 0 0 20px; padding:0;">
         <li>Undergraduate thesis</li>
-        <li>Under review in <em>Clinical Gastroenterology and Hepatology</em></li>
+        <li>Under review in <em>Nature Communications</em></li>
       </ul>
     </td>
   </tr>

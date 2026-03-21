@@ -75,6 +75,7 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
       <strong><u>Xinyu Wang</u></strong>, Mengxi Du, Dong Hang et al<br>
       <em>Gastroenterology</em>. 2026.<br>
     </td>
+  </tr>
 
   <tr>
     <td style="width:40%; padding:8px;">

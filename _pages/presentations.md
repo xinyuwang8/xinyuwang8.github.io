@@ -12,6 +12,7 @@ redirect_from:
 1. **Metabolomic signature of ultra-processed food intake and risk of colorectal cancer precursors.** *[Digestive Disease Week](https://ddw.org/)*, San Diego, US, 2025.  
     - Oral presentation at Gastrointestinal Oncology Distinguished Abstract Plenary Session  
     - Best of DDW, AGA (features the year’s top abstracts)
+    - Highlighted at United European Gastroenterology Week 2025
    <p align="center">
    <img src="/assets/images/ddw2025.jpg" width="500"><br>
    <strong>DDW, San Diego, 2025</strong>

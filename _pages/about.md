@@ -123,21 +123,6 @@ My research interests focus on the genetic, lifestyle, and metabolic determinant
 
   <tr>
     <td style="width:40%; padding:8px;">
-      <img src="/assets/images/healthy_lifestyle.jpg" alt="Healthy lifestyle" style="width:100%; height:auto; display:block;">
-    </td>
-    <td style="width:60%; padding:8px;">
-      <strong>
-        <a href="https://www.mdpi.com/2072-6643/14/20/4222" target="_blank" style="text-decoration:none; color:inherit;">
-          Associations between healthy lifestyle and all-cause mortality in individuals with metabolic associated fatty liver disease
-        </a>
-      </strong><br>
-      <strong><u>Xinyu Wang</u></strong>, Aruna Wang, Ruosu Zhang, et al<br>
-      <em>Nutrients</em>. 2022;14(20):4222.<br>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width:40%; padding:8px;">
       <img src="/assets/images/liver_biomarkers.jpg" alt="Liver Biomarkers" style="width:100%; height:auto; display:block;">
     </td>
     <td style="width:60%; padding:8px;">

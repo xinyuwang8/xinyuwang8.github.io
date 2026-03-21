@@ -13,51 +13,6 @@ Prior to Harvard, I obtained dual Bachelor's degrees in Medicine and Economics f
 
 My research interests focus on the genetic, lifestyle, and metabolic determinants of chronic diseases, particularly cancers and cardiometabolic diseases. I am passionate about integrating cutting-edge multi-omics techniques into epidemiology research and translating findings into clinical practice. I am also interested in (and actively learning!) Artificial Intelligence for Health. 
 
-## Current Projects
-<table style="width:100%; border-collapse:separate; border-spacing:0 16px; font-size:18px;">
-  <tr>
-    <td style="width:40%; padding:8px;">
-      <img src="/assets/images/microbiome_stability.jpg" alt="Microbiome Stability" style="width:100%; height:auto; display:block;">
-    </td>
-    <td style="width:60%; padding:8px;">
-      <strong>Epidemiological stability of the gut microbiome and associated factors</strong><br>
-      <strong><u>Xinyu Wang</u></strong>; supervised by Dr. Mingyang Song and Dr. Curtis Huttenhower<br>
-      <ul style="margin:4px 0 0 20px; padding:0;">
-        <li>Working paper</li>
-        <li>Accepted by <em>Digestive Disease Week 2026</em> as oral presentation</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width:40%; padding:8px;">
-      <img src="/assets/images/chip_cancer.jpg" alt="CHIP cancer" style="width:100%; height:auto; display:block;">
-    </td>
-    <td style="width:60%; padding:8px;">
-      <strong>Clonal hematopoiesis of intermediate potential: a modifiable risk factor for prostate and bladder cancer</strong><br>
-      <strong><u>Xinyu Wang</u></strong>; supervised by Dr. Zhi Yu and Dr. Edward Giovannucci<br>
-      <ul style="margin:4px 0 0 20px; padding:0;">
-        <li>Working paper</li>
-        <li>Lightning talk at the <em>American Society of Human Genetics 2025</em></li>
-      </ul>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="width:40%; padding:8px;">
-      <img src="/assets/images/ccs.png" alt="CCS" style="width:100%; height:auto; display:block;">
-    </td>
-    <td style="width:60%; padding:8px;">
-      <strong>Prediction and clinical utility of a cirrhosis risk score in Chinese adults</strong><br>
-      <strong><u>Xinyu Wang</u></strong>; supervised by Dr. Yuanjie Pang and Dr. Liming Li<br>
-      <ul style="margin:4px 0 0 20px; padding:0;">
-        <li>Undergraduate thesis</li>
-        <li>Under revision in <em>Nature Communications</em></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ## Selected Publications
 
 <table style="width:100%; border-collapse:separate; border-spacing:0 16px; font-size:18px;">

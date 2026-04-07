@@ -13,7 +13,7 @@ avatar = "/LinkedIn.jpeg"
 [social]
 email = "xinyu_wang@hsph.harvard.edu"
 location = "Boston, MA"
-location_url = "https://maps.google.com/?q=Boston,MA"
+location_url = "https://www.google.com/maps/place/Harvard+T.H.+Chan+School+of+Public+Health/@42.3354511,-71.1073289,17z/data=!3m2!4b1!5s0x89e677159d60ac19:0x3948f2d1ee632b44!4m6!3m5!1s0x89e379894a38df79:0x49f5d1374f9fccbc!8m2!3d42.3354472!4d-71.1024526!16zL20vMDVibmhk?entry=ttu&g_ep=EgoyMDI2MDQwNS4wIKXMDSoASAFQAw%3D%3D"
 location_details = [
   "Harvard T.H. Chan School of Public Health,",
   "677 Huntington Ave, Boston, MA 02115"

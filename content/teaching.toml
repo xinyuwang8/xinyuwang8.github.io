@@ -1,0 +1,17 @@
+type = "card"
+title = "Teaching"
+description = "Courses I have taught or assisted with at Harvard University."
+
+[[items]]
+title = "Microbial Communities and the Human Microbiome"
+subtitle = "Teaching Fellow"
+date = "Spring 2026"
+content = "Instructor: Dr. Curtis Huttenhower. Harvard University."
+tags = ["Graduate", "Microbiome", "Public Health"]
+
+[[items]]
+title = "Core Principles of Biostatistics and Epidemiology for Public Health"
+subtitle = "Biostatistics Teaching Fellow"
+date = "Fall 2025"
+content = "Instructors: Dr. Heather Mattie & Dr. Murray A. Mittleman. Harvard University."
+tags = ["Graduate", "Biostatistics", "Epidemiology"]

@@ -1,0 +1,57 @@
+type = "card"
+title = "Honors & Awards"
+description = "Selected honors and awards."
+
+[[items]]
+title = "Scholar-in-Training Award"
+subtitle = "American Association of Cancer Research (AACR)"
+date = "2026"
+content = ""
+
+[[items]]
+title = "Reviewer's Choice Award"
+subtitle = "American Society of Human Genetics (ASHG)"
+date = "2025"
+content = ""
+
+[[items]]
+title = "Student Abstract Award"
+subtitle = "American Gastroenterological Association (AGA)"
+date = "2025"
+content = ""
+
+[[items]]
+title = "Brian MacMahon Travel Award"
+subtitle = "Harvard T.H. Chan School of Public Health"
+date = "2025"
+content = ""
+
+[[items]]
+title = "Excellent Graduate (top 1%)"
+subtitle = "Peking University"
+date = "2024"
+content = ""
+
+[[items]]
+title = "Academic Innovation Award"
+subtitle = "Peking University (sole undergraduate recipient)"
+date = "2023"
+content = ""
+
+[[items]]
+title = "National Scholarship (top 1%)"
+subtitle = "Ministry of Education of China"
+date = "2020, 2022, 2023"
+content = "The highest scholarship awarded by the Ministry of Education of the PRC."
+
+[[items]]
+title = "Merit Student Pacesetter (top 1%)"
+subtitle = "Peking University"
+date = "2020, 2021, 2022, 2023"
+content = ""
+
+[[items]]
+title = "First Class Scholarship for Medical Students (top 5%)"
+subtitle = "Peking University Health Science Center"
+date = "2021"
+content = ""

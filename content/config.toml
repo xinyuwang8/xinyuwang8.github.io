@@ -1,0 +1,59 @@
+[site]
+title = "Xinyu Wang"
+description = "Master's student in Epidemiology at Harvard T.H. Chan School of Public Health."
+favicon = "/favicon.svg"
+last_updated = "April 2026"
+
+[author]
+name = "Xinyu Wang (王鑫宇)"
+title = "Master's Student in Epidemiology"
+institution = "Harvard T.H. Chan School of Public Health"
+avatar = "/bio.jpg"
+
+[social]
+email = "xinyu_wang@hsph.harvard.edu"
+location = "Boston, MA"
+location_url = "https://maps.google.com/?q=Boston,MA"
+location_details = [
+  "Harvard T.H. Chan School of Public Health,",
+  "677 Huntington Ave, Boston, MA 02115"
+]
+google_scholar = "https://scholar.google.com/citations?user=0FlqNzIAAAAJ&hl=en"
+linkedin = "https://www.linkedin.com/in/xinyu-wang-135bb226a/"
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Teaching"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

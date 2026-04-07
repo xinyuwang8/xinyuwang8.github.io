@@ -35,7 +35,7 @@ target = "about"
 href = "/"
 
 [[navigation]]
-title = "Publications"
+title = "Selected Publications"
 type = "page"
 target = "publications"
 href = "/publications"

@@ -3,15 +3,15 @@ title = "Teaching"
 description = "Courses I have taught or assisted with at Harvard University."
 
 [[items]]
-title = "Microbial Communities and the Human Microbiome"
+title = "IID 209: Microbial Communities and the Human Microbiome"
 subtitle = "Teaching Fellow"
 date = "Spring 2026"
-content = "Instructor: Dr. Curtis Huttenhower. Harvard University."
-tags = ["Graduate", "Microbiome", "Public Health"]
+content = "Instructor: Dr. Curtis Huttenhower."
+tags = ["Microbiome", "Computational Biology"]
 
 [[items]]
-title = "Core Principles of Biostatistics and Epidemiology for Public Health"
+title = "ID 201: Core Principles of Biostatistics and Epidemiology for Public Health"
 subtitle = "Biostatistics Teaching Fellow"
 date = "Fall 2025"
-content = "Instructors: Dr. Heather Mattie & Dr. Murray A. Mittleman. Harvard University."
-tags = ["Graduate", "Biostatistics", "Epidemiology"]
+content = "Instructors: Dr. Heather Mattie & Dr. Murray A. Mittleman."
+tags = ["Biostatistics", "Epidemiology", "MPH"]

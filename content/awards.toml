@@ -27,16 +27,16 @@ date = "2025"
 content = ""
 
 [[items]]
-title = "Excellent Graduate (top 1%)"
+title = "Excellent Graduate"
 subtitle = "Peking University"
 date = "2024"
-content = ""
+content = "Top 1% among all undergraduate students."
 
 [[items]]
 title = "Academic Innovation Award"
-subtitle = "Peking University (sole undergraduate recipient)"
+subtitle = "Peking University"
 date = "2023"
-content = ""
+content = "The only undergraduate recipient."
 
 [[items]]
 title = "National Scholarship (top 1%)"
@@ -45,13 +45,13 @@ date = "2020, 2022, 2023"
 content = "The highest scholarship awarded by the Ministry of Education of the PRC."
 
 [[items]]
-title = "Merit Student Pacesetter (top 1%)"
+title = "Merit Student Pacesetter"
 subtitle = "Peking University"
 date = "2020, 2021, 2022, 2023"
-content = ""
+content = "Top 1% for comprehensive performance."
 
 [[items]]
-title = "First Class Scholarship for Medical Students (top 5%)"
+title = "First Class Scholarship for Medical Students"
 subtitle = "Peking University Health Science Center"
 date = "2021"
-content = ""
+content = "Top 5% for comprehensive performance."

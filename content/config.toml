@@ -1,7 +1,7 @@
 [site]
 title = "Xinyu Wang"
 description = "Master's student in Epidemiology at Harvard T.H. Chan School of Public Health."
-favicon = "/favicon.svg"
+favicon = "/favicon.ico"
 last_updated = "April 2026"
 
 [author]

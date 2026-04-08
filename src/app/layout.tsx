@@ -183,6 +183,7 @@ export default function RootLayout({
               lastUpdated={config.site.last_updated}
               lastUpdatedByLocale={lastUpdatedByLocale}
               defaultLocale={runtimeI18n.defaultLocale}
+              clustrmapsId={config.features.clustrmaps_id}
             />
           </LocaleProvider>
         </ThemeProvider>

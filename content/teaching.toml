@@ -8,6 +8,7 @@ subtitle = "Teaching Fellow"
 date = "Spring 2026"
 content = "Instructor: Dr. Curtis Huttenhower."
 tags = ["Microbiome", "Computational Biology"]
+link = "https://beta.my.harvard.edu/course/IID209/2026-Spring/1"
 
 [[items]]
 title = "ID 201: Core Principles of Biostatistics and Epidemiology for Public Health"
@@ -15,3 +16,4 @@ subtitle = "Biostatistics Teaching Fellow"
 date = "Fall 2025"
 content = "Instructors: Dr. Heather Mattie & Dr. Murray A. Mittleman."
 tags = ["Biostatistics", "Epidemiology", "MPH"]
+link = "https://beta.my.harvard.edu/course/ID201/2025-Fall/1"

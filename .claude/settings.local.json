@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(rsync -a --exclude=.git /tmp/PRISM_template/ '/Users/xinyuwang/Library/CloudStorage/OneDrive-HarvardUniversity/Personal files/Github page/')",
+      "Bash(npm --version)",
+      "Bash(brew list:*)",
+      "Bash(gh run:*)",
+      "Bash(npm run:*)"
+    ]
+  }
+}

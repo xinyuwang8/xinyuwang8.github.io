@@ -30,7 +30,6 @@ export interface SiteConfig {
   features: {
     enable_likes: boolean;
     enable_one_page_mode?: boolean;
-    clustrmaps_id?: string;
   };
   navigation: Array<{
     title: string;

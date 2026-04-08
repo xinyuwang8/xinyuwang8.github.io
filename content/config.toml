@@ -24,7 +24,6 @@ linkedin = "https://www.linkedin.com/in/xinyu-wang-135bb226a/"
 [features]
 enable_likes = false
 enable_one_page_mode = false
-clustrmaps_id = "0XxzCFFIpmYOfIJjoYqtY9wkozW6HSVEpCJC1jdBT5k"
 
 [i18n]
 enabled = false
@@ -58,9 +57,3 @@ title = "CV"
 type = "page"
 target = "cv"
 href = "/cv"
-
-[[navigation]]
-title = "Visitor Map"
-type = "page"
-target = "visitor-map"
-href = "/visitor-map"

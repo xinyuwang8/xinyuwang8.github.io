@@ -50,12 +50,10 @@ function loadDynamicPageData(slug: string, locale?: string): DynamicPageLocaleDa
   return null;
 }
 
-const STANDALONE_ROUTES = ['visitor-map'];
-
 export function generateStaticParams() {
   const config = getConfig();
   return config.navigation
-    .filter((nav) => nav.type === 'page' && nav.target !== 'about' && !STANDALONE_ROUTES.includes(nav.target))
+    .filter((nav) => nav.type === 'page' && nav.target !== 'about')
     .map((nav) => ({
       slug: nav.target,
     }));

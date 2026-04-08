@@ -1,6 +1,6 @@
 type = "card"
 title = "Teaching"
-description = "Courses I have taught or assisted with at Harvard University."
+description = ""
 
 [[items]]
 title = "IID 209: Microbial Communities and the Human Microbiome"

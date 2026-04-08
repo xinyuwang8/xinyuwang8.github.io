@@ -204,7 +204,8 @@ export default function PublicationsList({ config, publications, embedded = fals
                             initial={{ opacity: 0, y: 20 }}
                             animate={{ opacity: 1, y: 0 }}
                             transition={{ duration: 0.4, delay: 0.1 * index }}
-                            className="bg-white dark:bg-neutral-900 p-6 rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-md transition-all duration-200"
+                            className={`bg-white dark:bg-neutral-900 p-6 rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-all duration-200 hover:scale-[1.01]${pub.doi || pub.url ? ' cursor-pointer' : ''}`}
+                            onClick={pub.doi || pub.url ? () => window.open(pub.url || `https://doi.org/${pub.doi}`, '_blank', 'noopener,noreferrer') : undefined}
                         >
                             <div className="flex flex-col md:flex-row gap-6">
                                 {pub.preview && (

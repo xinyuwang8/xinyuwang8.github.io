@@ -58,3 +58,9 @@ title = "CV"
 type = "page"
 target = "cv"
 href = "/cv"
+
+[[navigation]]
+title = "Visitor Map"
+type = "page"
+target = "visitor-map"
+href = "/visitor-map"

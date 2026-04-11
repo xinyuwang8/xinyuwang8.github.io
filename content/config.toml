@@ -41,6 +41,12 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
+title = "Presentations"
+type = "page"
+target = "presentations"
+href = "/presentations"
+
+[[navigation]]
 title = "Awards"
 type = "page"
 target = "awards"
@@ -51,12 +57,6 @@ title = "Teaching"
 type = "page"
 target = "teaching"
 href = "/teaching"
-
-[[navigation]]
-title = "Presentations"
-type = "page"
-target = "presentations"
-href = "/presentations"
 
 [[navigation]]
 title = "CV"

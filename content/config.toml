@@ -53,6 +53,12 @@ target = "teaching"
 href = "/teaching"
 
 [[navigation]]
+title = "Presentations"
+type = "page"
+target = "presentations"
+href = "/presentations"
+
+[[navigation]]
 title = "CV"
 type = "page"
 target = "cv"

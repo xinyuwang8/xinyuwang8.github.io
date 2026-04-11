@@ -1,0 +1,52 @@
+type = "card"
+title = "Presentations"
+description = ""
+
+[[items]]
+title = "Germline genetic impact on risk of colorectal cancer according to birth cohort"
+subtitle = "American Association for Cancer Research Annual Meeting — San Diego, US"
+date = "2026"
+content = "Oral presentation, first author."
+tags = ["Oral", "First Author"]
+
+[[items]]
+title = "Epidemiological stability of the human gut microbiome and associated factors"
+subtitle = "Digestive Disease Week — Chicago, US"
+date = "2026"
+content = "Oral presentation, first author."
+tags = ["Oral", "First Author"]
+
+[[items]]
+title = "Metabolomic signature of ultra-processed food intake and risk of colorectal cancer precursors"
+subtitle = "Digestive Disease Week — San Diego, US"
+date = "2025"
+content = "Oral presentation at Gastrointestinal Oncology Distinguished Abstract Plenary Session, first author. Selected as **Best of DDW** by AGA (top abstracts of the year). Highlighted at United European Gastroenterology Week 2025."
+tags = ["Oral", "First Author", "Best of DDW"]
+
+[[items]]
+title = "Clonal hematopoiesis of intermediate potential: a modifiable risk factor for prostate and bladder cancer"
+subtitle = "American Society of Human Genetics — Boston, US"
+date = "2025"
+content = "Lightning talk (top-scoring poster abstracts highlighted in an oral presentation), first author."
+tags = ["Oral", "First Author", "Lightning Talk"]
+
+[[items]]
+title = "Development, validation, and prognostic evaluation of a cirrhosis risk score in Chinese"
+subtitle = "The Liver Meeting — Washington DC, US"
+date = "2025"
+content = "Poster of Distinction (top 10% of all accepted poster presentations), first author."
+tags = ["Poster", "First Author", "Poster of Distinction"]
+
+[[items]]
+title = "Physical activity and bone fracture risk in a cohort of prostate cancer patients: Results from the Health Professionals Follow-up Study"
+subtitle = "DF/HCC Celebration of Early Career Investigators in Cancer Research — Boston, US"
+date = "2025"
+content = "Poster presentation, co-first author."
+tags = ["Poster", "Co-first Author"]
+
+[[items]]
+title = "Effects of bariatric surgery on rapid remission of NAFLD: An exploratory metabolomics and validation study"
+subtitle = "IFSO World Congress — Melbourne, Australia"
+date = "2024"
+content = "Oral presentation, co-first author."
+tags = ["Oral", "Co-first Author"]

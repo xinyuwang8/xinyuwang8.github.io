@@ -7,12 +7,21 @@ title = "Germline genetic impact on risk of colorectal cancer according to birth
 subtitle = "American Association for Cancer Research Annual Meeting — San Diego, US"
 date = "2026"
 tags = ["Oral", "First Author"]
+link = "https://aacrjournals.org/cancerres/article/86/7_Supplement/6816/777890/Abstract-6816-Germline-genetic-impact-on-risk-of"
+
+[[items]]
+title = "Germline genetic impact on risk of colorectal cancer according to birth cohort"
+subtitle = "Digestive Disease Week — Chicago, US"
+date = "2026"
+tags = ["Oral", "First Author", "In the News"]
+link = "https://news.gastro.org/issues/2026/may-2026/genetic-risk-for-colorectal-cancer-growing-analysis-shows/"
 
 [[items]]
 title = "Epidemiological stability of the human gut microbiome and associated factors"
 subtitle = "Digestive Disease Week — Chicago, US"
 date = "2026"
 tags = ["Oral", "First Author"]
+link = "https://www.gastrojournal.org/article/S0016-5085(26)00683-9/abstract?referrer=https%3A%2F%2Fwww.researchgate.net%2F"
 
 [[items]]
 title = "Metabolomic signature of ultra-processed food intake and risk of colorectal cancer precursors"
